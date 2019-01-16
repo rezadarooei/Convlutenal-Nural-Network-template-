@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+dataset/
+cnn.py
+cnn_homework_solution.py
